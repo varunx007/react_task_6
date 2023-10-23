@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_task_6/static/css/main.d1f10aa5.css",
+    "main.js": "/react_task_6/static/js/main.a421cca6.js",
+    "static/media/bg-texturte.jpg": "/react_task_6/static/media/bg-texturte.5049f917956f8f5240e3.jpg",
+    "static/media/Me.png": "/react_task_6/static/media/Me.95316383d2bc605698be.png",
+    "static/media/Educational Website.jpg": "/react_task_6/static/media/Educational Website.97050bafaa509873a210.jpg",
+    "static/media/Project4.jpg": "/react_task_6/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/Startup Agency Project.jpg": "/react_task_6/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/Covid-19 Project.jpg": "/react_task_6/static/media/Covid-19 Project.285d47443247c9a7a625.jpg",
+    "static/media/RubyCode Blog Project.jpg": "/react_task_6/static/media/RubyCode Blog Project.d46d52b39719c767823a.jpg",
+    "static/media/Jokes Project.jpg": "/react_task_6/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "index.html": "/react_task_6/index.html",
+    "main.d1f10aa5.css.map": "/react_task_6/static/css/main.d1f10aa5.css.map",
+    "main.a421cca6.js.map": "/react_task_6/static/js/main.a421cca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f10aa5.css",
+    "static/js/main.a421cca6.js"
+  ]
+}
